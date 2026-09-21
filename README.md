@@ -1,2 +1,2 @@
 # computational-basics
-Repository for the lecture "USW Cmputational Basics" @ Uni Graz
+Repository for the lecture "USW Computational Basics" @ Uni Graz
